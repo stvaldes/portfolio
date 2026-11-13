@@ -4,7 +4,7 @@ This repository contains the source code for my personal portfolio website, buil
 
 ## Live Demo
 
-[website](https://swalstab.netlify.app/)
+[website](https://svaldes.netlify.app/)
 
 ## Features
 
@@ -19,7 +19,7 @@ To run the project locally, make sure you have **Node.js** and **npm** installed
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/swalstab/portfolio.git
+   git clone https://github.com/stvaldes/portfolio.git
    cd portfolio
    ```
 
@@ -35,7 +35,7 @@ To run the project locally, make sure you have **Node.js** and **npm** installed
    npm run dev
    ```
 
-4. Open your browser at `http://localhost:3000` (or the port shown in your terminal).
+4. Open your browser at `http://localhost:5173` (or the port shown in your terminal).
 
 ## Project Structure
 
