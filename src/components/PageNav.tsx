@@ -60,7 +60,7 @@ function PageNav({
 
         <Link
           className="nav-git"
-          to="https://github.com/swalstab"
+          to="https://github.com/stvaldes"
           aria-label="go to GitHub Page"
         >
           <img src={imgGit} alt="" draggable="false" />
