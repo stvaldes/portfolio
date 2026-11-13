@@ -39,7 +39,7 @@ const styleHidden: VisibilityStyle = {
 const markup: Map<Language, AboutContent> = new Map();
 markup
   .set("english", {
-    descriptionBeforeCoding: `I’m Stefanie Walstab, a frontend developer
+    descriptionBeforeCoding: `I’m Stefanie Valdés, a frontend developer
      from Germany with an unusual path into tech: I started in civil 
      engineering, building complex BIM models. Along the way, I fell in 
      love with `,
@@ -53,7 +53,7 @@ markup
     locationRunning: `All over the world`,
   })
   .set("german", {
-    descriptionBeforeCoding: `Ich bin Stefanie Walstab, eine 
+    descriptionBeforeCoding: `Ich bin Stefanie Valdés, eine 
       Frontend-Entwicklerin aus Deutschland. Ursprünglich komme ich aus 
       dem Bauingenieurwesen, wo ich komplexe BIM-Modelle erstellt habe. 
       Dabei habe ich meine Begeisterung fürs `,
@@ -69,7 +69,7 @@ markup
     locationRunning: `Auf der ganzen Welt`,
   })
   .set("spanish", {
-    descriptionBeforeCoding: `Soy Stefanie Walstab, una desarrolladora 
+    descriptionBeforeCoding: `Soy Stefanie Valdés, una desarrolladora 
       frontend de Alemania con un camino poco habitual en la informática: 
       comencé en la ingeniería civil, creando modelos BIM complejos. En el 
       camino, descubrí mi interés por la `,
