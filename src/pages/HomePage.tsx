@@ -8,7 +8,7 @@ function HomePage() {
           <div className="name">
             <h1 className="heading-primary first-name">Stefanie</h1>
             <div className="surname">
-              <span>Walstab</span>
+              <span>Valdés</span>
             </div>
           </div>
         </div>

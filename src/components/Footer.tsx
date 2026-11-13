@@ -14,7 +14,7 @@ function Footer() {
           <Link to="/impressum">Impressum</Link>
         </div>
 
-        <p>&copy; {currentYear} Stefanie Walstab</p>
+        <p>&copy; {currentYear} Stefanie Valdés</p>
       </div>
     </footer>
   );

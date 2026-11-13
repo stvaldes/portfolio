@@ -9,7 +9,7 @@ function Impressum() {
 
           <h3 className="heading-tertiary">Angaben gemäß § 5 DDG</h3>
           <p>
-            Stefanie Walstab
+            Stefanie Valdés
             <br />
             Hettnerstraße 4
             <br />
@@ -26,7 +26,7 @@ function Impressum() {
             Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:
           </h3>
           <p className="margin-bottom-md">
-            Stefanie Walstab
+            Stefanie Valdés
             <br />
             (Anschrift wie oben)
           </p>
