@@ -29,7 +29,7 @@ const projects: ProjectProps[] = [
     technologies: ["react", "javascript", "css", "html"],
     sourceCode: {
       exist: true,
-      source: "https://github.com/swalstab/runwise",
+      source: "https://github.com/stvaldes/runwise",
     },
     website: { exist: false, source: null },
   },
@@ -43,7 +43,7 @@ const projects: ProjectProps[] = [
     technologies: ["react", "javascript", "css", "html"],
     sourceCode: {
       exist: true,
-      source: "https://github.com/swalstab/advent_of_code_2024",
+      source: "https://github.com/stvaldes/advent_of_code_2024",
     },
     website: { exist: false, source: null },
   },
@@ -57,7 +57,7 @@ const projects: ProjectProps[] = [
     technologies: ["react", "typescript", "css", "html"],
     sourceCode: {
       exist: true,
-      source: "https://github.com/swalstab/portfolio",
+      source: "https://github.com/stvaldes/portfolio",
     },
     website: { exist: true, source: "https://swalstab.netlify.app/" },
   },
